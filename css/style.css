@@ -1,0 +1,68 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container {
+    width: 550px;
+    margin: 10% auto;
+}
+body {
+	background:url(../img/bgi.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.login-section img {
+    margin: 0 auto;
+    display: block;
+    height: 150px;
+    width: 150px;
+}
+.login-section h2 {
+    text-align: center;
+    color: BLACK;
+    text-transform: capitalize;
+    font-size: 35px;
+}
+.contents {
+    width: 95%;
+    padding: 5px;
+    margin-bottom: 3px;
+    color: black;
+}
+.btn {
+    padding: 5px 20px;
+    margin: 0 auto;
+    display: block;
+    color: red;
+    background-color: blanchedalmond;
+    border: none;
+    text-transform: uppercase;
+    transition: 0.8s ease;
+}
+.btn:hover {
+    box-shadow: 1px 2px 3px red;
+    cursor: pointer;
+}
+.forgot{
+	text-align: center;
+
+}
+.forgo{
+	color: floralwhite;
+
+}
+.bt {
+    padding: 5px 10px;
+    margin: 0 auto;
+    display: block;
+    color: red;
+    background-color: antiquewhite;
+    border: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    transition: 0.8s ease;
+}
+.bt:hover {
+    box-shadow: 1px 2px 3px red;
+    cursor: pointer;
+}

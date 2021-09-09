@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.contain{
+	width: 1140px;
+	margin: 0 auto;
+
+}
+.signup-section h1 {
+    text-align: center;
+    color: cadetblue;
+    text-transform: uppercase;
+}
+.name{
+	width: 44.2%;
+	margin-bottom: 10px;
+	padding: 5px;
+}
+.mod{
+	width: 90%;
+	margin-bottom: 10px;
+	padding: 5px;
+
+}
+.sign {
+    width: 15%;
+    margin: 0 auto;
+    display: block;
+    padding: 5px 5px;
+    text-transform: uppercase;
+    color: cadetblue;
+    font-size: 20px;
+    transition: 0.8s ease;
+}
+.sign:hover{
+	box-shadow: 1px 2px 3px;
+	cursor: pointer;
+}
